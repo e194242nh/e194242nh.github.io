@@ -1,0 +1,13 @@
+h1{
+    color: whitesmoke;
+    text-align: center;
+    background-color:darkgreen;
+}
+body{
+    background-image: url("../images/04.jpg")
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+    background-color: cadetblue;
+}
