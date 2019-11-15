@@ -1,0 +1,19 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: olivedrab;
+}
+body{
+    background-image: url("../images/04.jpg")
+}
+h3{
+    color: white;
+    text-align: center;
+    background-color: darkcyan;
+}
+table {
+    background-color: palegoldenrod;
+}
+ol{
+    background-image: url(../images/05.jpg);
+}
