@@ -1,0 +1,26 @@
+body{
+    background-image: url("../images/04.jpg")
+}
+h1#title{
+    text-align: center;
+    background-color: darkseagreen;
+    color: mediumvioletred;
+}
+
+.souls{
+    text-align: center;
+    background-color: red;
+    color: black;
+}
+
+.devil{
+    text-align: center;
+    background-color: blue;
+    color: rosybrown;
+}
+
+h1#link{
+    text-align: center;
+    background-color: olivedrab;
+    color: white;
+}
