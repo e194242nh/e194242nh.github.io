@@ -1,0 +1,70 @@
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
+
+div.title{
+    width: 1000px;
+    height: 100px;
+    background-color: aquamarine;
+    font-size: 70px;
+    font-family: "impact";
+    margin-bottom: 20px;
+    padding-left: 30px;
+}
+
+span.menuitem{
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    height: 50px;
+    background-color: cornsilk;
+    text-align: center;
+    font-size: 30px;
+    font-family: "impact";
+    border: 5px dotted pink;
+}
+
+span.image1{
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+span.image2{
+    display: inline-block;
+    vertical-align: top;
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+
+}
+
+div.article{
+    width: 1000px;
+    height: 100px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 15px;
+}
+
+div.footer{
+    width: 1000px;
+    height: 50px;
+    background-color: cadetblue;
+    text-align: right;
+    font-size: 40px;
+}
+div.menu{
+    width: 1000px;
+}
+div.images{
+    font-size: 0;
+    width: 1000px;
+}
